@@ -1,0 +1,37 @@
+.tg_head_split{
+    max-width: none;
+}
+
+.im_page_wrap{
+    max-width: none;
+}
+
+.im_message_wrap{
+    max-width: none;
+}
+
+.im_dialogs_col_wrap{
+    width: 12%!important;
+}
+
+.im_history_col_wrap{
+    width: 88%!important;
+}
+
+.im_send_panel_wrap{
+    max-width: none;
+}
+
+.im_send_form {
+    max-width: none;
+}
+.composer_emoji_panel{
+    max-width: none;
+}
+
+.im_submit{
+    float:none;
+}
+.im_record{
+    display:none!important;
+}
